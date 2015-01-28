@@ -12,6 +12,8 @@
 	<dict>
 		<key>11AB555C3762CCB6F74F596FCCF1E2E073ACA741</key>
 		<string>https://github.com/iRareMedia/iCloudDocumentSync.git</string>
+		<key>78D1D0EDE1DA9723306B3AD80BF10D35166F1B23</key>
+		<string>bitbucket.org:ningsuhen/newphonebook.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>iCloud.xcodeproj</string>
@@ -19,6 +21,8 @@
 	<dict>
 		<key>11AB555C3762CCB6F74F596FCCF1E2E073ACA741</key>
 		<string>../..</string>
+		<key>78D1D0EDE1DA9723306B3AD80BF10D35166F1B23</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/iRareMedia/iCloudDocumentSync.git</string>
@@ -28,6 +32,14 @@
 	<string>11AB555C3762CCB6F74F596FCCF1E2E073ACA741</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>78D1D0EDE1DA9723306B3AD80BF10D35166F1B23</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
